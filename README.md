@@ -4,17 +4,15 @@
 <p><strong>Un espace pour découvrir nos projets, suivre leur évolution et contribuer.</strong></p>
 <p>
   <a href="https://github.com/neuroforge-audio"><img src="https://img.shields.io/badge/GitHub-NeuroForge_Audio-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Organisation GitHub NeuroForge Audio"></a>
-  <a href="https://github.com/orgs/neuroforge-audio/repositories"><img src="https://img.shields.io/badge/Explorer-les_projets-22d3ee?style=for-the-badge&amp;logo=github&amp;logoColor=111827" alt="Explorer les projets"></a>
+<!--   <a href="https://github.com/orgs/neuroforge-audio/repositories"><img src="https://img.shields.io/badge/Explorer-les_projets-22d3ee?style=for-the-badge&amp;logo=github&amp;logoColor=111827" alt="Explorer les projets"></a> -->
 </p>
 <p> <a href="#nos-projets">Nos projets</a> · <a href="#contribuer">Contribuer</a></p>
 
 </div>
-
----
-
+ 
 ## Nos projets
 
-### ◈ NeuroForge — Synthétiseur hybride
+### ◈ NeuroForge — Synthétiseur hybride (BETA)
 
 **NeuroForge** est notre premier projet : un synthétiseur hybride pour explorer et créer des sons, avec des oscillateurs à tables d’ondes, des filtres, des enveloppes et des modulations.
 
@@ -22,7 +20,7 @@
 
 `Synthétiseur` · `Création sonore` · `Version 2.0.1`
 
-#### Télécharger NeuroForge 2.0.1
+#### Télécharger NeuroForge 2.0.1 (BETA)
 
 | Plateforme                      | Téléchargement                                                                                                                                           |
 | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -63,13 +61,3 @@ Les consignes de contribution et les conditions de licence sont à consulter dan
 ## Suivre l’aventure
 
 Retrouvez les projets et leur activité sur **[GitHub](https://github.com/neuroforge-audio)**. Pour suivre un projet en particulier, utilisez son bouton **Watch** et choisissez les notifications qui vous intéressent.
-
----
-
-<div align="center">
-
-<p><strong>NEUROFORGE AUDIO</strong></p>
-<p><sub>Des idées aux ondes.</sub></p>
-<p><a href="https://github.com/orgs/neuroforge-audio/repositories">Explorer nos dépôts ↗</a></p>
-
-</div>
