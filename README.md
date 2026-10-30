@@ -1,13 +1,12 @@
 <div align="center">
 
-![NeuroForge Audio — Des idées aux ondes](assets/neuroforge-banner.svg)
-
-**Un espace pour découvrir nos projets, suivre leur évolution et contribuer.**
-
-[![Organisation](https://img.shields.io/badge/GitHub-NeuroForge_Audio-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neuroforge-audio)
-[![Projets](https://img.shields.io/badge/Explorer-les_projets-22d3ee?style=for-the-badge&logo=github&logoColor=111827)](https://github.com/orgs/neuroforge-audio/repositories)
-
-[À propos](#à-propos) · [Nos projets](#nos-projets) · [Contribuer](#contribuer)
+<p><img src="assets/neuroforge-banner.svg" alt="NeuroForge Audio — Des idées aux ondes" width="1280" style="max-width: 100%; height: auto;"></p>
+<p><strong>Un espace pour découvrir nos projets, suivre leur évolution et contribuer.</strong></p>
+<p>
+  <a href="https://github.com/neuroforge-audio"><img src="https://img.shields.io/badge/GitHub-NeuroForge_Audio-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Organisation GitHub NeuroForge Audio"></a>
+  <a href="https://github.com/orgs/neuroforge-audio/repositories"><img src="https://img.shields.io/badge/Explorer-les_projets-22d3ee?style=for-the-badge&amp;logo=github&amp;logoColor=111827" alt="Explorer les projets"></a>
+</p>
+<p><a href="#à-propos">À propos</a> · <a href="#nos-projets">Nos projets</a> · <a href="#contribuer">Contribuer</a></p>
 
 </div>
 
@@ -69,10 +68,8 @@ Retrouvez les projets et leur activité sur **[GitHub](https://github.com/neurof
 
 <div align="center">
 
-**NEUROFORGE AUDIO**
-
-<sub>Des idées aux ondes.</sub>
-
-[Explorer nos dépôts ↗](https://github.com/orgs/neuroforge-audio/repositories)
+<p><strong>NEUROFORGE AUDIO</strong></p>
+<p><sub>Des idées aux ondes.</sub></p>
+<p><a href="https://github.com/orgs/neuroforge-audio/repositories">Explorer nos dépôts ↗</a></p>
 
 </div>
