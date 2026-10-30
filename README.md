@@ -22,6 +22,26 @@ Cette vitrine rassemble les projets de notre organisation : un point d’entrée
 
 ## Nos projets
 
+### ◈ NeuroForge — Synthétiseur hybride
+
+**NeuroForge** est notre premier projet : un synthétiseur hybride pour explorer et créer des sons, avec des oscillateurs à tables d’ondes, des filtres, des enveloppes et des modulations.
+
+![Interface du synthétiseur hybride NeuroForge](assets/neuroforge-synth.jpeg)
+
+`Synthétiseur` · `Création sonore` · `Version 2.0.1`
+
+#### Télécharger NeuroForge 2.0.1
+
+| Plateforme | Téléchargement |
+| --- | --- |
+| Windows | [Télécharger l’installateur (.exe)](https://github.com/neuroforge-audio/neuroforge-audio.github.io/releases/download/2.0.1/Neuroforge-2.0.1.Setup.exe) |
+| Linux — Debian / Ubuntu (amd64) | [Télécharger le paquet (.deb)](https://github.com/neuroforge-audio/neuroforge-audio.github.io/releases/download/2.0.1/neuroforge_2.0.1_amd64.deb) |
+| macOS — Apple Silicon (arm64) | [Télécharger l’archive (.zip)](https://github.com/neuroforge-audio/neuroforge-audio.github.io/releases/download/2.0.1/Neuroforge-darwin-arm64-2.0.1.zip) |
+
+[Voir la release 2.0.1 →](https://github.com/neuroforge-audio/neuroforge-audio.github.io/releases/tag/2.0.1)
+
+---
+
 ### ◈ La vitrine de l’organisation
 
 **[neuroforge-audio.github.io](https://github.com/neuroforge-audio/neuroforge-audio.github.io)**
