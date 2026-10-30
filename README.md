@@ -50,11 +50,11 @@ Une phrase qui explique à qui s’adresse le projet et ce qu’il permet de fai
 
 ## Contribuer
 
-Une idée, une question ou un retour sur NeuroForge ? Rejoignez notre **[espace de discussion](https://neuroforge-audio.github.io/)** pour échanger autour du projet et participer à son évolution.
+Une idée, une question ou un retour sur NeuroForge ? Rejoignez notre **[espace de discussion](https://github.com/orgs/neuroforge-audio/discussions)** pour échanger autour du projet et participer à son évolution.
 
 Vous pouvez y partager vos impressions sur la bêta, proposer des améliorations, poser vos questions ou signaler un problème. Pour nous aider à comprendre un bug, précisez votre système d’exploitation, la version de NeuroForge et les étapes pour le reproduire.
 
-[Rejoindre la discussion →](https://neuroforge-audio.github.io/)
+[Rejoindre la discussion →](https://github.com/orgs/neuroforge-audio/discussions)
 
 Pour contribuer au code, consultez la documentation du dépôt concerné, puis proposez une pull request avec une description claire de votre changement. Les consignes de contribution et les conditions de licence sont à consulter dans chaque dépôt lorsqu’elles sont disponibles.
 
