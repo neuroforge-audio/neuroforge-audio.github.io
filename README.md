@@ -6,19 +6,11 @@
   <a href="https://github.com/neuroforge-audio"><img src="https://img.shields.io/badge/GitHub-NeuroForge_Audio-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Organisation GitHub NeuroForge Audio"></a>
   <a href="https://github.com/orgs/neuroforge-audio/repositories"><img src="https://img.shields.io/badge/Explorer-les_projets-22d3ee?style=for-the-badge&amp;logo=github&amp;logoColor=111827" alt="Explorer les projets"></a>
 </p>
-<p><a href="#à-propos">À propos</a> · <a href="#nos-projets">Nos projets</a> · <a href="#contribuer">Contribuer</a></p>
+<p> <a href="#nos-projets">Nos projets</a> · <a href="#contribuer">Contribuer</a></p>
 
 </div>
 
 ---
-
-## À propos
-
-Bienvenue chez **NeuroForge Audio**.
-
-Cette vitrine rassemble les projets de notre organisation : un point d’entrée pour explorer les dépôts, consulter leur documentation et participer à leur développement.
-
-> **Notre ambition : donner forme aux idées et partager ce que nous construisons.**
 
 ## Nos projets
 
@@ -32,25 +24,13 @@ Cette vitrine rassemble les projets de notre organisation : un point d’entrée
 
 #### Télécharger NeuroForge 2.0.1
 
-| Plateforme | Téléchargement |
-| --- | --- |
-| Windows | [Télécharger l’installateur (.exe)](https://github.com/neuroforge-audio/neuroforge-audio.github.io/releases/download/2.0.1/Neuroforge-2.0.1.Setup.exe) |
-| Linux — Debian / Ubuntu (amd64) | [Télécharger le paquet (.deb)](https://github.com/neuroforge-audio/neuroforge-audio.github.io/releases/download/2.0.1/neuroforge_2.0.1_amd64.deb) |
-| macOS — Apple Silicon (arm64) | [Télécharger l’archive (.zip)](https://github.com/neuroforge-audio/neuroforge-audio.github.io/releases/download/2.0.1/Neuroforge-darwin-arm64-2.0.1.zip) |
+| Plateforme                      | Téléchargement                                                                                                                                           |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Windows                         | [Télécharger l’installateur (.exe)](https://github.com/neuroforge-audio/neuroforge-audio.github.io/releases/download/2.0.1/Neuroforge-2.0.1.Setup.exe)   |
+| Linux — Debian / Ubuntu (amd64) | [Télécharger le paquet (.deb)](https://github.com/neuroforge-audio/neuroforge-audio.github.io/releases/download/2.0.1/neuroforge_2.0.1_amd64.deb)        |
+| macOS — Apple Silicon (arm64)   | [Télécharger l’archive (.zip)](https://github.com/neuroforge-audio/neuroforge-audio.github.io/releases/download/2.0.1/Neuroforge-darwin-arm64-2.0.1.zip) |
 
 [Voir la release 2.0.1 →](https://github.com/neuroforge-audio/neuroforge-audio.github.io/releases/tag/2.0.1)
-
----
-
-### ◈ La vitrine de l’organisation
-
-**[neuroforge-audio.github.io](https://github.com/neuroforge-audio/neuroforge-audio.github.io)**
-
-Le dépôt qui accueille cette présentation et servira de point de repère pour découvrir l’écosystème NeuroForge Audio.
-
-`Présentation` · `Documentation` · `Organisation`
-
-[Explorer le dépôt →](https://github.com/neuroforge-audio/neuroforge-audio.github.io)
 
 ---
 
